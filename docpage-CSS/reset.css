@@ -1,0 +1,16 @@
+:root{
+        
+    --primary-color:rgb(0,158,129);
+    --secondary-color:rgb(14, 211, 175);
+    --tertiary-text-color:black;
+  
+    /* background-color: rgb(247,186,197); */
+    box-sizing: border-box;
+       
+    }
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
